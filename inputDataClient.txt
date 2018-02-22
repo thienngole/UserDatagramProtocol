@@ -1,0 +1,6 @@
+00001, New Inspiron 15
+00002, New Inspiron 17
+00003, New Inspiron 15R
+00004, New Inspiron 15z Ultrabook
+00005, XPS 14 Ultrabook
+00006, New XPS 12 UltrabookXPS
